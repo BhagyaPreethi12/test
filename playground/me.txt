@@ -1,0 +1,6 @@
+{{#user}}
+Name: Bhagya Preethi
+Skills: HTML, CSS, JS.
+Email: bondadabhagyapreethi@gmail.com
+{{/user}}
+
